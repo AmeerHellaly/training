@@ -17,9 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Welcome Shahed 😒 </h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
+          
         </div>
         <button
           type="button"
@@ -28,6 +26,7 @@ function App() {
         >
           Count is {count}
         </button>
+        <p>hello</p>
       </section>
 
       <div className="ticks"></div>
